@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conferencia Ciencia de Datos</string>
+    <string name="tv1_IngSist">EP.INGENERÍA DE SISTEMAS</string>
+    <string name="tv2_ConfInt">CONFERENCIA INTERNACIONAL EN CIENCIA DE DATOS</string>
+    <string name="tv3_Fecha">21 y 22 de diciembre de 2020</string>
+    <string name="tv4_Hora"> 6:00 pm - 10:00 pm (Hora Perú)</string>
+    <string name="btn1_Inscrip">Inscripción</string>
+    <string name="btn2_Talleres">Talleres</string>
+    <string name="btn3_Reglam">Reglamento</string>
+</resources>
